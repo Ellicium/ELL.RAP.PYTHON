@@ -132,7 +132,7 @@ celerybeat.pid
 .venv5
 .test_venv
 .new_venv4
-.new_venv5
+.new_venv3
 env/
 venv/
 ENV/
