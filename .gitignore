@@ -126,7 +126,7 @@ celerybeat.pid
 
 # Environments
 .data_modified
-.new_venv7
+.new_venv
 .venv7
 .env
 .venv5
