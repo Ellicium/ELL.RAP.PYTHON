@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker
 from ..utils.timer import timer_func
-#from ..utils.timer import timer_func
+
 
 load_dotenv()
 
